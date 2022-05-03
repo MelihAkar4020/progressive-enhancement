@@ -1,0 +1,22 @@
+p {
+    font-family: serif;
+    font-size: 17px;
+    word-spacing: 7px;
+    color: #6C1B1B;
+}
+
+a {
+    font-family: Georgia, 'Times New Roman';
+    font-size: 19px;
+    color: #1b1c6c;
+    text-decoration: none;   
+}
+
+a:visited {
+    color: #1b6c1f;   
+}
+
+a:hover {
+    text-shadow: 2px 2px 10px #7D4994;
+}
+
