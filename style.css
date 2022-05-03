@@ -1,8 +1,20 @@
+body {
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    color:#6C1B1B;
+
+}
+
+h1, h2{
+color: #550707;
+font-weight: bold;
+}
+
 p {
     font-family: serif;
     font-size: 17px;
     word-spacing: 7px;
-    color: #6C1B1B;
 }
 
 a {
@@ -20,3 +32,13 @@ a:hover {
     text-shadow: 2px 2px 10px #7D4994;
 }
 
+table {
+    margin: auto;
+   border: solid 1px;
+   border-collapse: collapse;
+}
+
+td {
+    border: solid 2px ;
+  
+}
